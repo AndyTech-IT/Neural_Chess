@@ -1,0 +1,12 @@
+C:\Users\Евгения\Desktop\Andy\Neural_Chess\bin\Debug\Neural_Chess.exe.config
+C:\Users\Евгения\Desktop\Andy\Neural_Chess\bin\Debug\Neural_Chess.exe
+C:\Users\Евгения\Desktop\Andy\Neural_Chess\bin\Debug\Neural_Chess.pdb
+C:\Users\Евгения\Desktop\Andy\Neural_Chess\obj\Debug\Neural_Chess.Chess_Field.resources
+C:\Users\Евгения\Desktop\Andy\Neural_Chess\obj\Debug\Neural_Chess.Chess_MainMenu.resources
+C:\Users\Евгения\Desktop\Andy\Neural_Chess\obj\Debug\Neural_Chess.Main_Form.resources
+C:\Users\Евгения\Desktop\Andy\Neural_Chess\obj\Debug\Neural_Chess.Properties.Resources.resources
+C:\Users\Евгения\Desktop\Andy\Neural_Chess\obj\Debug\Neural_Chess.csproj.GenerateResource.cache
+C:\Users\Евгения\Desktop\Andy\Neural_Chess\obj\Debug\Neural_Chess.csproj.CoreCompileInputs.cache
+C:\Users\Евгения\Desktop\Andy\Neural_Chess\obj\Debug\Neural_Chess.exe
+C:\Users\Евгения\Desktop\Andy\Neural_Chess\obj\Debug\Neural_Chess.pdb
+C:\Users\Евгения\Desktop\Andy\Neural_Chess\obj\Debug\Neural_Chess.csprojAssemblyReference.cache
