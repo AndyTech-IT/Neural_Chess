@@ -15,10 +15,6 @@ namespace Neural_Chess
         public Main_Form()
         {
             InitializeComponent();
-            Chess_Core core = new Chess_Core();
-            Console.WriteLine(core);
-            core.MoveFigure(new BoardPosition(6, 7), new BoardPosition(5, 7));
-            Console.WriteLine(core);
         }
     }
 }

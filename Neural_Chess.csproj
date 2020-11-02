@@ -52,7 +52,7 @@
     <Reference Include="WindowsFormsIntegration" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Chess_Core.cs" />
+    <Compile Include="Chess_Board.cs" />
     <Compile Include="Chess_Field.cs">
       <SubType>UserControl</SubType>
     </Compile>
